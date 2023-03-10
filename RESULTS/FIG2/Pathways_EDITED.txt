@@ -1,0 +1,30 @@
+BIOCARTA_WNT_PATHWAY	BIOCARTA	wnt pathway (BC)	WNT	0.8298444	WNT pathway
+REACTOME_MITOCHONDRIAL_CALCIUM_ION_TRANSPORT	REACTOME	mitochondrial calcium ion transport (RE)	Mitochondria/OxPhos	0.679736	Mitochondrial calcium ion transport
+WP_MITOCHONDRIAL_CIV_ASSEMBLY	WP	mitochondrial civ assembly (WP)	Mitochondria/OxPhos	0.6675634	Mitochondrial complex IV assembly
+WP_OXIDATIVE_PHOSPHORYLATION	WP	oxidative phosphorylation (WP)	Mitochondria/OxPhos	0.6538087	Oxidative phosphorylation
+REACTOME_COMPLEX_I_BIOGENESIS	REACTOME	complex i biogenesis (RE)	Mitochondria/OxPhos	0.6479202	Complex I biogenesis
+KEGG_OXIDATIVE_PHOSPHORYLATION	KEGG	oxidative phosphorylation (KG)	Mitochondria/OxPhos	0.621669	Oxidative phosphorylation
+REACTOME_THE_CITRIC_ACID_TCA_CYCLE_AND_RESPIRATORY_ELECTRON_TRANSPORT	REACTOME	the citric acid tca cycle and respiratory electron transport (RE)	Mitochondria/OxPhos	0.5644711	TCA cycle and ETC transport
+REACTOME_EUKARYOTIC_TRANSLATION_ELONGATION	REACTOME	eukaryotic translation elongation (RE)	Translation	0.6721353	Eukaryotic translation elongation
+REACTOME_EUKARYOTIC_TRANSLATION_INITIATION	REACTOME	eukaryotic translation initiation (RE)	Translation	0.6420259	Eukaryotic translation initiation
+REACTOME_TRNA_AMINOACYLATION	REACTOME	trna aminoacylation (RE)	Translation	0.5899584	tRNA aminoacylation
+REACTOME_MITOCHONDRIAL_TRANSLATION	REACTOME	mitochondrial translation (RE)	Translation	0.5841035	Mitochondrial translation
+REACTOME_RRNA_PROCESSING	REACTOME	rrna processing (RE)	Translation	0.5770873	rRNA processing
+REACTOME_NONSENSE_MEDIATED_DECAY_NMD	REACTOME	nonsense mediated decay nmd (RE)	RNA processing/splicing	0.6549608	Nonsense-mediated decay
+REACTOME_MRNA_SPLICING	REACTOME	mrna splicing (RE)	RNA processing/splicing	0.5104681	mRNA splicing
+REACTOME_PROCESSING_OF_CAPPED_INTRON_CONTAINING_PRE_MRNA	REACTOME	processing of capped intron containing pre mrna (RE)	RNA processing/splicing	0.4944937	Processing of capped intron containing pre-mRNA
+REACTOME_METABOLISM_OF_RNA	REACTOME	metabolism of rna (RE)	RNA processing/splicing	0.4552729	Metabolism of RNA
+REACTOME_RESPONSE_OF_EIF2AK4_GCN2_TO_AMINO_ACID_DEFICIENCY	REACTOME	response of eif2ak4 gcn2 to amino acid deficiency (RE)	Integrated Stress Response	0.6535365	Response of EIF2AK4 to amino acid deficiency
+REACTOME_CELLULAR_RESPONSE_TO_STARVATION	REACTOME	cellular response to starvation (RE)	Integrated Stress Response	0.5971921	Cellular responses to external stimuli
+KEGG_CARDIAC_MUSCLE_CONTRACTION	KEGG	cardiac muscle contraction (KG)	Muscle contraction	0.5873562	Cardiac muscle contraction
+REACTOME_REGULATION_OF_EXPRESSION_OF_SLITS_AND_ROBOS	REACTOME	regulation of expression of slits and robos (RE)	Axon guidance	0.5155556	SLITs and ROBOs regulation
+REACTOME_CELLULAR_RESPONSE_TO_HEAT_STRESS	REACTOME	cellular response to heat stress (RE)	Proteostasis	0.4833968	Cellular response to starvation
+REACTOME_METABOLISM_OF_AMINO_ACIDS_AND_DERIVATIVES	REACTOME	metabolism of amino acids and derivatives (RE)	AA metabolism	0.481006	Metabolism of amino acids and derivatives
+REACTOME_INFLUENZA_INFECTION	REACTOME	influenza infection (RE)	Inflammation	0.5905549	Influenza infection
+REACTOME_INFECTIOUS_DISEASE	REACTOME	infectious disease (RE)	Inflammation	0.3419197	Infectious disease
+REACTOME_FC_EPSILON_RECEPTOR_FCERI_SIGNALING	REACTOME	fc epsilon receptor fceri signaling (RE)	Inflammation	-0.3881566	Fc epsilon receptor signaling
+REACTOME_CELL_SURFACE_INTERACTIONS_AT_THE_VASCULAR_WALL	REACTOME	cell surface interactions at the vascular wall (RE)	Inflammation	-0.4400292	Cell surface interactions at the vascular wall
+REACTOME_MAPK_FAMILY_SIGNALING_CASCADES	REACTOME	mapk family signaling cascades (RE)	Hypoxia	-0.3397957	MAPK family signaling cascades
+HALLMARK_HYPOXIA	HALLMARK	hypoxia (HM)	Hypoxia	-0.4048905	Hypoxia
+REACTOME_COMMON_PATHWAY_OF_FIBRIN_CLOT_FORMATION	REACTOME	common pathway of fibrin clot formation (RE)	Coagulation	-0.6647338	Fibrin clot formation
+WP_GLYCOLYSIS_IN_SENESCENCE	WP	glycolysis in senescence (WP)	Glycolysis	-0.8249049	Glycolysis in senescence

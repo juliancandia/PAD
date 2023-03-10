@@ -1,0 +1,50 @@
+BIOCARTA_NFKB_PATHWAY	BIOCARTA	nfkb pathway (BC)	Inflammation	0.7168041	NF-kB signaling
+REACTOME_INTERLEUKIN_1_SIGNALING	REACTOME	interleukin 1 signaling (RE)	Inflammation	0.5887626	IL-1 signaling
+REACTOME_TNFR2_NON_CANONICAL_NF_KB_PATHWAY	REACTOME	tnfr2 non canonical nf kb pathway (RE)	Inflammation	0.5637169	TNFR2 non-canonical NF-kB
+REACTOME_TCR_SIGNALING	REACTOME	tcr signaling (RE)	Inflammation	0.4900616	TCR signaling
+KEGG_NATURAL_KILLER_CELL_MEDIATED_CYTOTOXICITY	KEGG	natural killer cell mediated cytotoxicity (KG)	Inflammation	0.4885452	NK cell mediated cytotoxicity
+HALLMARK_TNFA_SIGNALING_VIA_NFKB	HALLMARK	tnfa signaling via nfkb (HM)	Inflammation	0.4774538	TNFa signaling via NF-kB
+REACTOME_CLASS_I_MHC_MEDIATED_ANTIGEN_PROCESSING_PRESENTATION	REACTOME	class i mhc mediated antigen processing presentation (RE)	Inflammation	0.4007507	Antigen processing presentation
+REACTOME_ADAPTIVE_IMMUNE_SYSTEM	REACTOME	adaptive immune system (RE)	Inflammation	0.4006803	Adaptive immune system
+REACTOME_INNATE_IMMUNE_SYSTEM	REACTOME	innate immune system (RE)	Inflammation	0.4005024	Innate immune system
+WP_IL18_SIGNALING_PATHWAY	WP	il18 signaling pathway (WP)	Inflammation	0.3754324	IL-18 signaling
+REACTOME_REGULATION_OF_HMOX1_EXPRESSION_AND_ACTIVITY	REACTOME	regulation of hmox1 expression and activity (RE)	Hypoxia response	0.6110079	HMOX1 expression/activity
+REACTOME_PTEN_REGULATION	REACTOME	pten regulation (RE)	Hypoxia response	0.4440069	PTEN regulation
+HALLMARK_PI3K_AKT_MTOR_SIGNALING	HALLMARK	pi3k akt mtor signaling (HM)	Hypoxia response	0.4092439	PI3K/Akt/mTOR signaling
+REACTOME_MAPK_FAMILY_SIGNALING_CASCADES	REACTOME	mapk family signaling cascades (RE)	Hypoxia response	0.3979342	MAPK family signaling cascades
+REACTOME_DEGRADATION_OF_AXIN	REACTOME	degradation of axin (RE)	WNT signaling	0.6384682	Degradation of Axin
+REACTOME_DEGRADATION_OF_DVL	REACTOME	degradation of dvl (RE)	WNT signaling	0.6085076	Degradation of Dvl
+REACTOME_DEGRADATION_OF_BETA_CATENIN_BY_THE_DESTRUCTION_COMPLEX	REACTOME	degradation of beta catenin by the destruction complex (RE)	WNT signaling	0.5901554	Beta-catenin destruction complex
+REACTOME_BETA_CATENIN_INDEPENDENT_WNT_SIGNALING	REACTOME	beta catenin independent wnt signaling (RE)	WNT signaling	0.4470223	Beta-catenin independent WNT signaling
+REACTOME_NUCLEAR_ENVELOPE_NE_REASSEMBLY	REACTOME	nuclear envelope ne reassembly (RE)	Cell cycle / mitosis	0.512675	Nuclear envelope reassembly
+REACTOME_G1_S_DNA_DAMAGE_CHECKPOINTS	REACTOME	g1 s dna damage checkpoints (RE)	Cell cycle / mitosis	0.5028955	G1/S DNA damage checkpoints
+REACTOME_MITOTIC_METAPHASE_AND_ANAPHASE	REACTOME	mitotic metaphase and anaphase (RE)	Cell cycle / mitosis	0.4188491	Mitotic metaphase and anaphase
+WP_PARKINUBIQUITIN_PROTEASOMAL_SYSTEM_PATHWAY	WP	parkinubiquitin proteasomal system pathway (WP)	Proteostasis/Autophagy	0.6861608	Parkin-ubiquitin proteasome
+WP_PROTEASOME_DEGRADATION	WP	proteasome degradation (WP)	Proteostasis/Autophagy	0.5789733	Proteasome degradation
+REACTOME_DEUBIQUITINATION	REACTOME	deubiquitination (RE)	Proteostasis/Autophagy	0.4208207	Deubiquitination
+REACTOME_TRANSCRIPTIONAL_REGULATION_BY_RUNX3	REACTOME	transcriptional regulation by runx3 (RE)	RUNX	0.5711006	Transcriptional regulation by RUNX3
+REACTOME_TRANSCRIPTIONAL_REGULATION_BY_RUNX2	REACTOME	transcriptional regulation by runx2 (RE)	RUNX	0.4708374	Transcriptional regulation by RUNX2
+REACTOME_TRANSCRIPTIONAL_REGULATION_BY_RUNX1	REACTOME	transcriptional regulation by runx1 (RE)	RUNX	0.3978555	Transcriptional regulation by RUNX1
+WP_TNF_RELATED_WEAK_INDUCER_OF_APOPTOSIS_TWEAK_SIGNALING_PATHWAY	WP	tnf related weak inducer of apoptosis tweak signaling pathway (WP)	Apoptosis	0.5850762	TNF-TWEAK-related apoptosis
+REACTOME_PROGRAMMED_CELL_DEATH	REACTOME	programmed cell death (RE)	Apoptosis	0.4167259	Programmed cell death
+PID_P75_NTR_PATHWAY	PID	p75 ntr pathway (PID)	Axon guidance	0.5111577	Defects in B12 metabolism
+REACTOME_REGULATION_OF_EXPRESSION_OF_SLITS_AND_ROBOS	REACTOME	regulation of expression of slits and robos (RE)	Axon guidance	0.4296481	SLITs and ROBOs regulation
+REACTOME_HEDGEHOG_LIGAND_BIOGENESIS	REACTOME	hedgehog ligand biogenesis (RE)	Hedgehog signaling	0.625968	Hedgehog ligand biogenesis
+REACTOME_SIGNALING_BY_HEDGEHOG	REACTOME	signaling by hedgehog (RE)	Hedgehog signaling	0.4410702	Signaling by Hedgehog
+REACTOME_SIGNALING_BY_NOTCH4	REACTOME	signaling by notch4 (RE)	Notch	0.568937	Signaling by Notch4
+REACTOME_SIGNALING_BY_NOTCH	REACTOME	signaling by notch (RE)	Notch	0.4031619	Signaling by Notch
+PID_TGFBR_PATHWAY	PID	tgfbr pathway (PID)	Fibrosis	0.562804	TGF-beta receptor
+REACTOME_SEPARATION_OF_SISTER_CHROMATIDS	REACTOME	separation of sister chromatids (RE)	Cell cycle/ mitosis	0.4117993	Separation of sister chromatids
+WP_VEGFAVEGFR2_SIGNALING_PATHWAY	WP	vegfavegfr2 signaling pathway (WP)	Angiogenesis	0.3903376	VEGFA-VEGFR2 signaling
+REACTOME_AUF1_HNRNP_D0_BINDS_AND_DESTABILIZES_MRNA	REACTOME	auf1 hnrnp d0 binds and destabilizes mrna (RE)	RNA metabolism	0.6296775	AUF1 ARE-mediated RNA decay
+REACTOME_REGULATION_OF_MRNA_STABILITY_BY_PROTEINS_THAT_BIND_AU_RICH_ELEMENTS	REACTOME	regulation of mrna stability by proteins that bind au rich elements (RE)	RNA metabolism	0.5218292	RNA stability by ARE-binding proteins
+REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION	REACTOME	rna polymerase ii transcription (RE)	RNA metabolism	-0.2719667	RNA polymerase II transcription
+HALLMARK_ADIPOGENESIS	HALLMARK	adipogenesis (HM)	Adipogenesis	-0.3324815	Adipogenesis
+REACTOME_THE_CITRIC_ACID_TCA_CYCLE_AND_RESPIRATORY_ELECTRON_TRANSPORT	REACTOME	the citric acid tca cycle and respiratory electron transport (RE)	Mito/OxPhos	-0.4940683	TCA cycle and ETC transport
+WP_MITOCHONDRIAL_COMPLEX_I_ASSEMBLY_MODEL_OXPHOS_SYSTEM	WP	mitochondrial complex i assembly model oxphos system (WP)	Mito/OxPhos	-0.5293332	Complex I biogenesis/assembly
+REACTOME_MITOCHONDRIAL_FATTY_ACID_BETA_OXIDATION	REACTOME	mitochondrial fatty acid beta oxidation (RE)	Mito/OxPhos	-0.5823133	Fatty acid beta oxidation
+KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM	KEGG	alanine aspartate and glutamate metabolism (KG)	AA metabolism	-0.6539701	"Alanine, aspartate, glutamate metabolism"
+REACTOME_BRANCHED_CHAIN_AMINO_ACID_CATABOLISM	REACTOME	branched chain amino acid catabolism (RE)	AA metabolism	-0.7501835	Branched chain AA catabolism
+REACTOME_METABOLISM_OF_VITAMINS_AND_COFACTORS	REACTOME	metabolism of vitamins and cofactors (RE)	Vitamins and co-factors	-0.3895769	Metabolism of vitamins and cofactors
+WP_NAD_BIOSYNTHETIC_PATHWAYS	WP	nad biosynthetic pathways (WP)	Vitamins and co-factors	-0.6968292	NAD biosynthetic pathways
+REACTOME_DEFECTS_IN_COBALAMIN_B12_METABOLISM	REACTOME	defects in cobalamin b12 metabolism (RE)	Vitamins and co-factors	-0.7797575	Defects in B12 metabolism
